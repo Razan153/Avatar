@@ -10,12 +10,12 @@ body {
 .class21 {
     width: 90%;
     height: 650px;
-    background-image: linear-gradient(to right, #01022db9 40%, #000000a9), url(./img/ca-times.brightspotcdn.webp);
+    background-image: linear-gradient(to right, #01022db9 40%, #000000a9), url(../img/ca-times.brightspotcdn.webp);
 
 }
 
 .class21:hover {
-    background-image: linear-gradient(to right, #01022dc2 40%, transparent), url(./img/ca-times.brightspotcdn.webp);
+    background-image: linear-gradient(to right, #01022dc2 40%, transparent), url(../img/ca-times.brightspotcdn.webp);
 
 }
 
